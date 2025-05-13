@@ -1,0 +1,25 @@
+{
+  "title": "The Sucrier Templating Engine",
+  "author": {
+    "name": "Ben McNelly",
+    "bio": "Founder of Full Bore Studios. Loves fruit and fast code.",
+    "avatar": "../../../sucrier.png"
+  },
+  "published": "2024-05-01",
+  "categories": ["JavaScript", "Templating", "Open Source"],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Sucrier is a tiny JavaScript template engine with big flavor. It's ideal for simple projects that need dynamic rendering without heavy frameworks."
+    },
+    {
+      "type": "image",
+      "src": "../../../sucrier.png",
+      "caption": "Sucrier is light, modular, and tasty."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inspired by Django and Jinja2, it uses familiar syntax like {{ title }} and {% for item in list %}."
+    }
+  ]
+}

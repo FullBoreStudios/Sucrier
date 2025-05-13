@@ -1,0 +1,7 @@
+{
+  "categories": [
+    { "name": "JavaScript", "link": "/example/categories/javascript/" },
+    { "name": "Templating", "link": "/example/categories/templating/" },
+    { "name": "Open Source", "link": "/example/categories/open-source/" }
+  ]
+}

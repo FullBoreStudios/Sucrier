@@ -1,0 +1,69 @@
+{
+  "page_title": "My Blog Feed",
+  "user": {
+    "name": "Ben",
+    "age": 40
+  },
+  "blogs": [
+    {
+      "title": "First Post",
+      "excerpt": "This is the summary of the first blog post.",
+      "link": "/example/post/1/"
+    },
+    {
+      "title": "Another One",
+      "excerpt": "Here's something interesting in post two.",
+      "link": "/example/post/1/"
+    },
+    {
+      "title": "Final Thoughts",
+      "excerpt": "Some closing ideas and wrap up.",
+      "link": "/example/post/1/"
+    },
+    {
+      "title": "Onward and Upward",
+      "excerpt": "What's next on the horizon for us?",
+      "link": "/example/post/1/"
+    },
+    {
+      "title": "Coffee and Code",
+      "excerpt": "Thoughts on writing better software with caffeine.",
+      "link": "/example/post/1/"
+    },
+    {
+      "title": "Night Owl Productivity",
+      "excerpt": "Working in silence while the world sleeps.",
+      "link": "/example/post/1/"
+    },
+    {
+      "title": "Simple Things",
+      "excerpt": "Finding joy in everyday routines.",
+      "link": "/example/post/1/"
+    },
+    {
+      "title": "Design and Darkness",
+      "excerpt": "Dark mode isn't just a preference — it's a lifestyle.",
+      "link": "/example/post/1/"
+    },
+    {
+      "title": "How I Broke Everything",
+      "excerpt": "Lessons from pushing broken code to production.",
+      "link": "/example/post/1/"
+    },
+    {
+      "title": "The Art of the Commit Message",
+      "excerpt": "Why you should stop writing 'fix stuff' and start writing meaningfully.",
+      "link": "/example/post/1/"
+    },
+    {
+      "title": "Hidden Gems in Django",
+      "excerpt": "Underrated features and tips in everyone's favorite Python web framework.",
+      "link": "/example/post/1/"
+    },
+    {
+      "title": "Terminal Zen",
+      "excerpt": "Customizing your shell until it feels like home.",
+      "link": "/example/post/1/"
+    }
+  ]
+}

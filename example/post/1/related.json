@@ -1,0 +1,6 @@
+{
+  "related": [
+    { "title": "Intro to Static Site Generators", "link": "/example/post/2/" },
+    { "title": "Using HTMX with Vanilla Templates", "link": "/example/post/3/" }
+  ]
+}
