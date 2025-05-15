@@ -1,4 +1,5 @@
-<img src="sucrier.png" alt="Sucrier logo" width="150" />
+
+
 
 # Sucrier 🍌
 
